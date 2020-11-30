@@ -1,0 +1,15 @@
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/floor_adventurer.deps.json
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/floor_adventurer.runtimeconfig.json
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/floor_adventurer.runtimeconfig.dev.json
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/floor_adventurer.dll
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/ref/floor_adventurer.dll
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/bin/Debug/net5.0/floor_adventurer.pdb
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.csprojAssemblyReference.cache
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.AssemblyInfoInputs.cache
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.AssemblyInfo.cs
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.csproj.CoreCompileInputs.cache
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.dll
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/ref/floor_adventurer.dll
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.pdb
+/Users/samwright/Desktop/GitHub Cloned Repositories/Floor-Adventurer/floor_adventurer/floor_adventurer/obj/Debug/net5.0/floor_adventurer.genruntimeconfig.cache

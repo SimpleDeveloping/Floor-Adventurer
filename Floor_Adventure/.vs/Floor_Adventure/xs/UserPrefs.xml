@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AB0EFD97-B3E7-47CA-8194-6CEF0845E0E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Floor_Adventure/Program.cs">
+    <Files>
+      <File FileName="Floor_Adventure/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Floor_Adventure/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Floor_Adventure" expanded="True">
+            <Node name="Floor_Adventure" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Floor__Adventure FirstBuild="True" PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
